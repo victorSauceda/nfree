@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
 title: New Freedom
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.jpeg
 heading: New Freedom
 subheading: Commited to Positive Change
 mainpitch:
   title: Why New Freedom
   description: >
-    Duh because its awesome and likes to do other things
+    Most former gang members return to their county of origin despite the fact many of them qualify for an exception per RCW 72.09.270(8)(a). The exception set forth in the aforementioned RCW is seldom utilized for mandated release plans in the cases of former gang members. This is due to a lack of understanding of the overwhelming pressures that negatively affect former gang members in their communities of origin. We suggest once it is documented that an individual is no longer an active gang member and has continued to demonstrated non-gang related behaviors, a mandated consideration for relocation is completed.
 description: >-
-  and some more thinfs
+  and some more info
 intro:
   blurbs:
     - image: /img/coffee.png
