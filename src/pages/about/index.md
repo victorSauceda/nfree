@@ -1,7 +1,7 @@
 ---
 templateKey: "about-page"
 path: /about
-title: New Freedom
+title: About New Freedom
 ---
 
 ### Shade-grown coffee
