@@ -1,12 +1,14 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+import React from "react";
+import PropTypes from "prop-types";
+import { Link, graphql, StaticQuery } from "gatsby";
+import PreviewCompatibleImage from "./PreviewCompatibleImage";
+import Video from "../components/video";
 
 class BlogRoll extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const { data } = this.props;
+    console.log("data: ", data);
+    const { edges: posts } = data.allMarkdownRemark;
 
     return (
       <div className="columns is-multiline">
@@ -15,12 +17,13 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
+                  post.frontmatter.featuredpost ? "is-featured" : ""
                 }`}
               >
                 <header>
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
+                      {" "}
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -30,6 +33,12 @@ class BlogRoll extends React.Component {
                     </div>
                   ) : null}
                   <p className="post-meta">
+                    {post.frontmatter.videoSrcURL ? (
+                      <Video
+                        videoSrcURL={post.frontmatter.videoSourceURL}
+                        videoTitle={post.frontmatter.title}
+                      />
+                    ) : null}
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
@@ -54,7 +63,7 @@ class BlogRoll extends React.Component {
             </div>
           ))}
       </div>
-    )
+    );
   }
 }
 
@@ -64,7 +73,7 @@ BlogRoll.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-}
+};
 
 export default () => (
   <StaticQuery
@@ -86,6 +95,8 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
+                videoSourceURL
+                videoTitle
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {
@@ -101,4 +112,4 @@ export default () => (
     `}
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
-)
+);
