@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "New Freedom",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "New Freedom is a non-profit for gang-intervention. Gangs have had a huge impact on our schools, jails and communities. New Freedom challenges former and current gang members to challenge their old ways in order to live more meaningful lives upon release.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
