@@ -2,28 +2,28 @@
 templateKey: index-page
 title: New Freedom
 image: /img/home-jumbotron.jpeg
-heading: New Freedom
+heading: The Strategy
 subheading: Commited to Positive Change
 mainpitch:
-  title: Why New Freedom
+  title: Mission Statement
   description: >
-    Most former gang members return to their county of origin despite the fact many of them qualify for an exception per RCW 72.09.270(8)(a). The exception set forth in the aforementioned RCW is seldom utilized for mandated release plans in the cases of former gang members. This is due to a lack of understanding of the overwhelming pressures that negatively affect former gang members in their communities of origin. We suggest once it is documented that an individual is no longer an active gang member and has continued to demonstrated non-gang related behaviors, a mandated consideration for relocation is completed.
+    To provide people with the skills, support, and resources to continue on the path of change.
 description: >-
-  and some more info
+  To inspire people to take ownership of their own lives by giving them the space and opportunity to learn a new way to live. This is accomplished through volunteering our time and energy in supporting others who are committed to positive change and seeking a better life. The members of New Freedom bring passion, commitment, honesty, and a desire to build the relationship between the people of the community and the people at Twin Rivers for a safer community
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/teste.png
       text: >
-        45% of people in washington state have been involved with gangs
-    - image: /img/coffee-gear.png
+        Using this time to challenge deeply rooted habits and beliefs in order to begin a new freedom
+    - image: /img/bridge.png
       text: >
-        We are often times releasing them to the same place that they came from and expecting a different result
-    - image: /img/tutorials.png
+        Bridging the gap from gang member to community member through stategic introspection
+    - image: /img/ha.png
       text: >
-        Can you imagine a world with no gangs
-    - image: /img/meeting-space.png
+        Building partnerships with community based organizations to create paths for individuals to succeed
+    - image: /img/fam.png
       text: >
-        How many lives can be saved if they were able to escape a gang member destiny
+        Transforming individuals by providing skills that would leading to meaningful lives
   heading: What we offer
   description: >
     A 6 month comprehsive course that challenges past thought patterns and beliefs
