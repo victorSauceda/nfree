@@ -33,12 +33,6 @@ class BlogRoll extends React.Component {
                     </div>
                   ) : null}
                   <p className="post-meta">
-                    {post.frontmatter.videoSrcURL ? (
-                      <Video
-                        videoSrcURL={post.frontmatter.videoSourceURL}
-                        videoTitle={post.frontmatter.title}
-                      />
-                    ) : null}
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
