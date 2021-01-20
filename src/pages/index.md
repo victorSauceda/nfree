@@ -7,7 +7,7 @@ subheading: Commited to Positive Change
 mainpitch:
   title: Mission Statement
   description: >
-    To provide people with the skills, support, and resources to continue on the path of change.
+    To provide people affected by gangs and crime with the skills, strategies, support, and resources to continue on the path of redemption, healing, and positive change
 description: >-
   To inspire people to take ownership of their own lives by giving them the space and opportunity to learn a new way to live. This is accomplished through volunteering our time and energy in supporting others who are committed to positive change and seeking a better life. The members of New Freedom bring passion, commitment, honesty, and a desire to build the relationship between the people of the community and the people at Twin Rivers for a safer community
 intro:
