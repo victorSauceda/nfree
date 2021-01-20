@@ -2,7 +2,7 @@
 templateKey: "product-page"
 path: /products
 title: Our Strategy
-image: /img/jumbotron.jpg
+image: /img/fence.jpg
 heading: New Freedom's Strategy
 description: >-
   To inspire people to take ownership over their own life by empowering them with the opportunity to develop the skills to live a life full of value and purpose. This is accomplished by removing barriers to success through education, employment, housing, connection to comprehensive social services, and establishing a network of support and accountability. The members of New Freedom bring passion, commitment, integrity, and a strong desire to bulid meaningful relationships between people in the the community and the people of New Freedom. We strive to promote understanding, connection, and safety in our communities.
