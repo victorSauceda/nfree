@@ -2,7 +2,7 @@
 templateKey: "product-page"
 path: /products
 title: Meet our Team
-image: /img/jumbotron.jpg
+image: /img/fence.jpg
 heading: Facilitators & Board Members
 description: >-
   All of these individuals came together to support the same cause
