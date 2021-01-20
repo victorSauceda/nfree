@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: New Freedom
-image: /img/home-jumbotron.jpeg
+image: /img/fence.jpg
 heading: The Strategy
 subheading: Commited to Positive Change
 mainpitch:
