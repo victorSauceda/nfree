@@ -1,8 +1,9 @@
 ---
 templateKey: "blog-post"
 title: "What it's like to be incarcerated at 16 | Gateways"
-date: 2017-01-04T15:04:10.000Z
+date: 2017-10-31T15:04:10.000Z
 featuredpost: true
+featuredimage: /img/DanielGreen.png
 description: >-
   Listen as Daniel Perez talks about being incarcerated
 videoSourceURL: "https://www.youtube.com/embed/STM0FPuTTAA"
