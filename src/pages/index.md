@@ -18,10 +18,10 @@ intro:
     - image: /img/bridge.png
       text: >
         Bridging the gap from gang member to community member through stategic introspection
-    - image: /img/bridge.png
+    - image: /img/part.png
       text: >
         Building partnerships with community based organizations to create paths for individuals to succeed
-    - image: /img/bridge.png
+    - image: /img/fam.png
       text: >
         Transforming individuals by providing skills that would leading to meaningful lives
   heading: What we offer
