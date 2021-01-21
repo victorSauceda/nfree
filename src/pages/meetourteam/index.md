@@ -14,7 +14,7 @@ intro:
     - image: /img/Phillip.jpg
       text: >
         Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
-    - image: /img/randy.jpg
+    - image: /img/Phillip.jpg
       text: >
         Meet Randy:Arriving to prison at 19 years old in 2004, I was very susceptible to social influences. I quickly became a prison gang affiliate and for the first turbulent years of my time I caused myself many hardships by living in that pit of hopelessness and misery. I am now a gang interventionist - New Freedom peer facilitator, and a hopeful, productive member of my community. It takes many moving parts to power the engines of change, and I am proud to be doing my part to help others change their criminal thinking and trade their gang culture and lifestyle for a more hopeful and promising way of being. I am from Thurston County and my current release date is 02/22/2029
     - image: /img/daniel.jpg

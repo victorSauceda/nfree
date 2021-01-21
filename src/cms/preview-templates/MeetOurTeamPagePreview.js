@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { ProductPageTemplate } from "../../templates/product-page";
+import { MeetOurTeamPageTemplate } from "../../templates/meetourteam-page";
 
 const MeetOurTeamPagePreview = ({ entry, getAsset }) => {
   const entryBlurbs = entry.getIn(["data", "intro", "blurbs"]);
