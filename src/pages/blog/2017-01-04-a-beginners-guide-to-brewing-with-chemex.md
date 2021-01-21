@@ -14,6 +14,6 @@ tags:
 
 <!-- ![chemex](/img/home-jumbotron.jpeg) -->
 
-**Take** a look at the very first New Freedom graduation that took place at the Monroe Correctinal Complex in 2013
+**Take** a look at the very first New Freedom graduation that took place at the Monroe Correctinal Complex in 2018
 
-[Check out the youtube video](https://www.youtube.com/watch?v=RZhe4en8COI) so that you could here directly from the particpants themselves
+Check out the youtube video so that you could hear directly from the particpants themselves
