@@ -1,7 +1,7 @@
 ---
 templateKey: "product-page"
 path: /products
-title: Meet our Facilitator
+title: Meet our Facilitators
 image: /img/fence.jpg
 heading: Facilitators
 description: >-
