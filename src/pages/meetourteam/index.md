@@ -8,12 +8,6 @@ description: >-
   All of these individuals came together to support the same cause
 intro:
   blurbs:
-    - image: /img/Jihad.jpg
-      text: >
-        Meet Yusef: Hey! my name is Yusef. I am a founding member of New Freedom Washington. Originally, I am from Los Angeles, California and I that has something to do with me being a motivatied optimist. Currently, I'm incarcerated due to my tragic life decisions. In seeking redemption from my past actions, I have transformed my life and turned a negative situation into a positive one. Now, as a man of faith, integrity, excellence and leadership, I am dedicated to make the world a better place by being of service to others. Inspired by words of Arther Ash, "begin where you are", I have pursued education, recieved numerous certificates, and established programs from inside prison. To my work with New Freedom Washington I bring passion, dedication and hope - the hope of saving lives.
-    - image: /img/Phillip.jpg
-      text: >
-        Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
     - image: /img/vicmar.jpg
       text: >
         Meet Victor: My name is Victor Martinez. I’m currently seventeen years into a twenty-eight year sentence, twenty-five years for Washington State D.O.C and three years for Federal prison. From the age of twelve years old I have lived my life as a criminal. I was a gang member, a drug dealer and finally an addict.  That lifestyle was like living in the gutter and lying to yourself every day. Today, I strive to be a positive influence to everyone around me and create an atmosphere where I am able to encourage positive change in others.

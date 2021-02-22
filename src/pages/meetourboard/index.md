@@ -10,13 +10,34 @@ intro:
   blurbs:
     - image: /img/leffew.jpg
       text: >
-        Meet Jim: His name is Jim Leffew. He was born and raised in Kingston, Tennessee. He has a BA degree. He is an ordained minister and served as a missionary in Davao City, Philippines for twenty years. Jim is Responsible, possesses a strong Belief theme, an Achiever, Focused, has the value of Connectedness, a Networker, a Motivator.
-    # - image: /img/Phillip.jpg
-    #   text: >
-    #     Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
-    # - image: /img/vicmar.jpg
-    #   text: >
-    #     Meet Victor: My name is Victor Martinez. I’m currently seventeen years into a twenty-eight year sentence, twenty-five years for Washington State D.O.C and three years for Federal prison. From the age of twelve years old I have lived my life as a criminal. I was a gang member, a drug dealer and finally an addict.  That lifestyle was like living in the gutter and lying to yourself every day. Today, I strive to be a positive influence to everyone around me and create an atmosphere where I am able to encourage positive change in others.   WWW.jpay.com/VictorMartinez788738.
+        Jim Leffew: Minister, Mentor, Motivator, and Networker
+        Jim knew that he wanted to help people in need shortly after high school. He then went on to obtain a B.A. degree in Philosophy/Theology. Jim has worked in a number of different settings, missionary work in the Philippines, teaching in Christian schools, both in America and the Philippines. Jim used sports while working with you as an Athletic Director, Coach, and Commissioner of what became the second largest basketball league outside of Manila under his leadership. He has travelled in 11 different countries. All of this life experience has contributed to Jim’s expertise in his role as a Case Manager at the Monroe Correctional Complex where he has sponsored and helped develop the New Freedom Program
+    - image: /img/rachel.jpg
+      text: >
+        Rachel Kjack: Rachel has 25 years experience working with everyone from Fortune 500 executives to justice-involved individuals returning to society after prison. She has built public-private partnerships between government and private industry, as well as numerous social venture startups. She is currently a diversity and inclusion consultant and training facilitator with Translator, Inc. and a multimedia storyteller with Unincarcerated Productions. She holds a BA in Multicultural Education and Social Justice from The Evergreen State College and a Masters in Organizational Development and Leadership from Bastyr University. Her passion for helping incarcerated, formerly incarcerated and communities of justice-impacted people started by growing up in the shadow of the state penitentiary in Walla Walla, Washington. She has worked for the past six years as a business and life skills program leader at San Quentin Prison and Monroe Correctional Complex and is passionate about changing hearts and minds of the general public towards our returning citizens who have a lot to offer society if given a chance.
+    - image: /img/vic3.jpg
+      text: >
+        Victor Sauceda: Victor serves as the Executive Director for New Freedom. He is originally from California and has served over a decade in the prison system. Victor was introduced to the gang lifestyle at a very young age. Through his lived experience and passion for justice reform he is dedicated to creating a pathway for those that are commited to making themselves better people. He brings leadership, passion, grit and a huge smile. After releasing he attended a coding bootcamp through Unloop and is currently a Software Engineer at Code for America. He continues to find ways to have a signicant impact in his community.
+    - image: /img/tom.png
+      text: >
+        Tom Griffin: Tom has worked for most of his professional career as a Contract Manager for a number of large
+        defense contractors. He specialized in managing a team of professionals in the creation of multi-million-
+        dollar competitive proposals to all US Defense Departments as well as other US Government agencies.
+        The proposals were in response to requests from these organizations for highly technical equipment and
+        services. In addition, he served for 20 years (5 active and 15 reserve) in the US Navy as a pilot flying the
+        F-4 Phantom and F-14 Tomcat.
+        Since retirement in 2016 Tom obtained his US Coast Guard Merchant Mariner certification and, in the
+        summer months, teaches yacht operation training for customers who charter yachts from local charter
+        companies.
+        For the past two years Tom has become a close friend to a current inmate at Monroe Correctional
+        Complex and acts as a mentor and advisor in preparation for his release into the community in late
+        2021.
+    - image: /img/Jihad.jpg
+      text: >
+        Meet Yusef: Hey! my name is Yusef. I am a founding member of New Freedom Washington. Originally, I am from Los Angeles, California and I that has something to do with me being a motivatied optimist. Currently, I'm incarcerated due to my tragic life decisions. In seeking redemption from my past actions, I have transformed my life and turned a negative situation into a positive one. Now, as a man of faith, integrity, excellence and leadership, I am dedicated to make the world a better place by being of service to others. Inspired by words of Arther Ash, "begin where you are", I have pursued education, recieved numerous certificates, and established programs from inside prison. To my work with New Freedom Washington I bring passion, dedication and hope - the hope of saving lives.
+    - image: /img/Phillip.jpg
+      text: >
+        Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
     # - image: /img/randy.jpg
     #   text: >
     #     Meet Randy :Arriving to prison at 19 years old in 2004, I was very susceptible to social influences. I quickly became a prison gang affiliate and for the first turbulent years of my time I caused myself many hardships by living in that pit of hopelessness and misery. I am now a gang interventionist - New Freedom peer facilitator, and a hopeful, productive member of my community. It takes many moving parts to power the engines of change, and I am proud to be doing my part to help others change their criminal thinking and trade their gang culture and lifestyle for a more hopeful and promising way of being. I am from Thurston County and my current release date is 02/22/2029
