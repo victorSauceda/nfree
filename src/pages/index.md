@@ -23,7 +23,7 @@ intro:
         Building partnerships with community based organizations to create paths for individuals to succeed
     - image: /img/fam.png
       text: >
-        Transforming individuals by providing skills that would leading to meaningful lives
+        Transforming individuals by providing skills that leads to a meaningful lives
   heading: What we offer
   description: >
     A 6 month comprehsive course that challenges past thought patterns and beliefs
