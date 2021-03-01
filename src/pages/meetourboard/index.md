@@ -8,7 +8,7 @@ description: >-
   Happy to introduce our board members
 intro:
   blurbs:
-    - image: /img/leffew.jpg
+    - image: /img/leffew4.png
       text: >
         Jim Leffew: Minister, Mentor, Motivator, and Networker
         Jim knew that he wanted to help people in need shortly after high school. He then went on to obtain a B.A. degree in Philosophy/Theology. Jim has worked in a number of different settings, missionary work in the Philippines, teaching in Christian schools, both in America and the Philippines. Jim used sports while working with you as an Athletic Director, Coach, and Commissioner of what became the second largest basketball league outside of Manila under his leadership. He has travelled in 11 different countries. All of this life experience has contributed to Jim’s expertise in his role as a Case Manager at the Monroe Correctional Complex where he has sponsored and helped develop the New Freedom Program
@@ -32,6 +32,9 @@ intro:
         For the past two years Tom has become a close friend to a current inmate at Monroe Correctional
         Complex and acts as a mentor and advisor in preparation for his release into the community in late
         2021.
+    - image: /img/musa.jpg
+      text: >
+        Meet Musa: Musa Abdul-Mateen is the founder of Motivated Muslim.com, an organization dedicated to giving a voice to incarcerated Muslims all over the world. Formerly incarcerated for over two decades, Musa is familiar with life inside the system and understands the struggles men and woman face upon their release. In addition to Musa’s work with Motivated Muslim, he is also a full-time welder at Vigor Shipyards in Seattle and a full-time student at Colorado Technical University working to finish his undergrad in Business. Musa volunteers his free time helping incarcerated adultsand youth.
     - image: /img/Jihad.jpg
       text: >
         Meet Yusef: Hey! my name is Yusef. I am a founding member of New Freedom Washington. Originally, I am from Los Angeles, California and I think that has something to do with me being a motivatied optimist. I am currently incarcerated due to my tragic life decisions. In seeking redemption from my past actions, I have transformed my life and turned a negative situation into a positive one. Now, as a man of faith, integrity, excellence and leadership, I am dedicated to making the world a better place by being of service to others. Inspired by words of Arther Ash, "begin where you are", I have pursued education, recieved numerous certificates, and established programs from inside prison. To my work with New Freedom Washington I bring passion, dedication and hope - the hope of saving lives.
