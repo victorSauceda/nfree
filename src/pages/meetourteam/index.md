@@ -14,6 +14,11 @@ intro:
     - image: /img/randy.jpg
       text: >
         Meet Randy :Arriving to prison at 19 years old in 2004, I was very susceptible to social influences. I quickly became a prison gang affiliate and for the first turbulent years of my time I caused myself many hardships by living in that pit of hopelessness and misery. I am now a gang interventionist - New Freedom peer facilitator, and a hopeful, productive member of my community. It takes many moving parts to power the engines of change, and I am proud to be doing my part to help others change their criminal thinking and trade their gang culture and lifestyle for a more hopeful and promising way of being. I am from Thurston County and my current release date is 02/22/2029
+    - image: /img/kyle.png
+      text: >
+        Meet Kyle: I once heard the expression, "We accept the love we think we deserve." This could apply to any number of dysfunctional relationship types, but in the context of gangs it is especially poignant.
+        I have been in prison for over three decades and like everyone else I know who has gone through this carceral experience, I lost everything when I made those impulsive, catastrophic decisions in 1989. The devastating outcomes led to my own imprisonment and loss of worldly possessions, freedom, relationships, privacy, and personal dignity. This void was filled with the only thing available - the pseudo love of a prison gang, the camaraderie of criminals.
+        My mission with New Freedom is to replace this false love with real and meaningful pro-social and positive alternatives for gang involved youth and adults alike. This epiphany has become my life's work.
     - image: /img/james3.jpg
       text: >
         Meet James: My name is James Paulk. I am 42 years old and from The Dalles, Oregon. I’ve been in prison the last 14 years, most of it spent alone and hopeless. All of my life, I only saw the differences between myself and others. I now feel hopeful and united with like minded individuals from all walks of life. I am able to see the similarities now, that all humans share no matter race, religion or financial position or background. I believe in New Freedom, my team, and the people this program has and will help given the opportunity.
