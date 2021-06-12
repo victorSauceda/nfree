@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
+import ReactReadMoreReadLess from "react-read-more-read-less";
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map((item) => (
@@ -19,7 +20,13 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+          <ReactReadMoreReadLess
+            charLimit={300}
+            readMoreText={"Read more ▼"}
+            readLessText={"Read less ▲"}
+          >
+            {item.text}
+          </ReactReadMoreReadLess>
         </section>
       </div>
     ))}
