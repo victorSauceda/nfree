@@ -8,6 +8,18 @@ description: >-
   Happy to introduce our board members
 intro:
   blurbs:
+    - image: /img/vic3.jpg
+      text: >
+        Victor Sauceda: Victor serves as the Executive Director for New Freedom. He is originally from California and has served over a decade in the prison system. Victor was introduced to the gang lifestyle at a very young age. Through his lived experience and passion for justice reform he is dedicated to creating a pathway for those that are commited to making themselves better people. He brings leadership, passion, grit and a huge smile. After releasing he attended a coding bootcamp through Unloop and is currently a Software Engineer at Code for America. He continues to find ways to have a signicant impact in his community.
+    - image: /img/Phillip.jpg
+      text: >
+        Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
+    - image: /img/Jihad.jpg
+      text: >
+        Meet Yusef: Hey! my name is Yusef. I am a founding member of New Freedom Washington. Originally, I am from Los Angeles, California and I think that has something to do with me being a motivatied optimist. I am currently incarcerated due to my tragic life decisions. In seeking redemption from my past actions, I have transformed my life and turned a negative situation into a positive one. Now, as a man of faith, integrity, excellence and leadership, I am dedicated to making the world a better place by being of service to others. Inspired by words of Arther Ash, "begin where you are", I have pursued education, recieved numerous certificates, and established programs from inside prison. To my work with New Freedom Washington I bring passion, dedication and hope - the hope of saving lives.
+    - image: /img/eric.png
+      text: >
+        Meet Eric: Eric, grew up in Pacoima, California. In the neighborhood where gangs make up the everyday life culture . He spent about two decades in and out of the correctional facilities—from his early teenager years, until his early thirties. His life was consistent on proving himself to the neighborhood. But the day came, one that he’d never imagined of taking place. “While in prison, where my youngest son spent his first birthday in the visiting room. And  my oldest son missing me tremendously. That day—broke me like no other. No time spent in solitary confinement, or away from family could compare to that pain. It was time that I took accountability for my life choices, and stop blaming others for my poor decisions. The journey began with the reflection of my life, and until that point nothing was positive. A year before that point, I almost lost my life in a physical altercation, almost succumbed to an over dose, and a fight in the justice system—with a life sentence looming over my head. While incarcerated, I pursued my education, and attended Edmonds Community College and University Beyond Bars/South Seattle Community College. I began to align myself with likeminded individuals. With the effort to gain a new view in life. With my lived experiences, I am now a board member, and devote my time on paying it forward. Like the ones that help me realize—that life has a lot more to offer. Than the streets, or a jail cell. Now I put forth the needed action in making the best future for my children, community, and myself. I am currently a field inspector with Materials Testing & Consulting, a board member with Workforce Foundation. And living a life that was not ever imagined by me. But one that can be achieved by anyone.
     - image: /img/leffew4.png
       text: >
         Jim Leffew: Minister, Mentor, Motivator, and Networker
@@ -15,9 +27,7 @@ intro:
     - image: /img/rachel.jpg
       text: >
         Rachel Kjack: Rachel has 25 years experience working with everyone from Fortune 500 executives to justice-involved individuals returning to society after prison. She has built public-private partnerships between government and private industry, as well as numerous social venture startups. She is currently a diversity and inclusion consultant and training facilitator with Translator, Inc. and a multimedia storyteller with Unincarcerated Productions. She holds a BA in Multicultural Education and Social Justice from The Evergreen State College and a Masters in Organizational Development and Leadership from Bastyr University. Her passion for helping incarcerated, formerly incarcerated and communities of justice-impacted people started by growing up in the shadow of the state penitentiary in Walla Walla, Washington. She has worked for the past six years as a business and life skills program leader at San Quentin Prison and Monroe Correctional Complex and is passionate about changing hearts and minds of the general public towards our returning citizens who have a lot to offer society if given a chance.
-    - image: /img/vic3.jpg
-      text: >
-        Victor Sauceda: Victor serves as the Executive Director for New Freedom. He is originally from California and has served over a decade in the prison system. Victor was introduced to the gang lifestyle at a very young age. Through his lived experience and passion for justice reform he is dedicated to creating a pathway for those that are commited to making themselves better people. He brings leadership, passion, grit and a huge smile. After releasing he attended a coding bootcamp through Unloop and is currently a Software Engineer at Code for America. He continues to find ways to have a signicant impact in his community.
+
     - image: /img/tom.png
       text: >
         Tom Griffin: Tom has worked for most of his professional career as a Contract Manager for a number of large
@@ -35,12 +45,7 @@ intro:
     - image: /img/musa.jpg
       text: >
         Meet Musa: Musa Abdul-Mateen is the founder of Motivated Muslim.com, an organization dedicated to giving a voice to incarcerated Muslims all over the world. Formerly incarcerated for over two decades, Musa is familiar with life inside the system and understands the struggles men and woman face upon their release. In addition to Musa’s work with Motivated Muslim, he is also a full-time welder at Vigor Shipyards in Seattle and a full-time student at Colorado Technical University working to finish his undergrad in Business. Musa volunteers his free time helping incarcerated adultsand youth.
-    - image: /img/Jihad.jpg
-      text: >
-        Meet Yusef: Hey! my name is Yusef. I am a founding member of New Freedom Washington. Originally, I am from Los Angeles, California and I think that has something to do with me being a motivatied optimist. I am currently incarcerated due to my tragic life decisions. In seeking redemption from my past actions, I have transformed my life and turned a negative situation into a positive one. Now, as a man of faith, integrity, excellence and leadership, I am dedicated to making the world a better place by being of service to others. Inspired by words of Arther Ash, "begin where you are", I have pursued education, recieved numerous certificates, and established programs from inside prison. To my work with New Freedom Washington I bring passion, dedication and hope - the hope of saving lives.
-    - image: /img/Phillip.jpg
-      text: >
-        Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
+
     # - image: /img/randy.jpg
     #   text: >
     #     Meet Randy :Arriving to prison at 19 years old in 2004, I was very susceptible to social influences. I quickly became a prison gang affiliate and for the first turbulent years of my time I caused myself many hardships by living in that pit of hopelessness and misery. I am now a gang interventionist - New Freedom peer facilitator, and a hopeful, productive member of my community. It takes many moving parts to power the engines of change, and I am proud to be doing my part to help others change their criminal thinking and trade their gang culture and lifestyle for a more hopeful and promising way of being. I am from Thurston County and my current release date is 02/22/2029

@@ -13,7 +13,7 @@ intro:
         Meet Victor: My name is Victor Martinez. I’m currently seventeen years into a twenty-eight year sentence, twenty-five years for Washington State D.O.C and three years for Federal prison. From the age of twelve years old I have lived my life as a criminal. I was a gang member, a drug dealer and finally an addict.  That lifestyle was like living in the gutter and lying to yourself every day. Today, I strive to be a positive influence to everyone around me and create an atmosphere where I am able to encourage positive change in others.
     - image: /img/randy.jpg
       text: >
-        Meet Randy :Arriving to prison at 19 years old in 2004, I was very susceptible to social influences. I quickly became a prison gang affiliate and for the first turbulent years of my time I caused myself many hardships by living in that pit of hopelessness and misery. I am now a gang interventionist - New Freedom peer facilitator, and a hopeful, productive member of my community. It takes many moving parts to power the engines of change, and I am proud to be doing my part to help others change their criminal thinking and trade their gang culture and lifestyle for a more hopeful and promising way of being. I am from Thurston County and my current release date is 02/22/2029
+        Meet Randy: Arriving to prison at 19 years old in 2004, I was very susceptible to social influences. I quickly became a prison gang affiliate and for the first turbulent years of my time I caused myself many hardships by living in that pit of hopelessness and misery. I am now a gang interventionist - New Freedom peer facilitator, and a hopeful, productive member of my community. It takes many moving parts to power the engines of change, and I am proud to be doing my part to help others change their criminal thinking and trade their gang culture and lifestyle for a more hopeful and promising way of being. I am from Thurston County and my current release date is 02/22/2029
     - image: /img/kyle.png
       text: >
         Meet Kyle: I once heard the expression, "We accept the love we think we deserve." This could apply to any number of dysfunctional relationship types, but in the context of gangs it is especially poignant.
@@ -28,7 +28,7 @@ intro:
     - image: /img/vue3.jpg
       text: >
         Meet Vu: My name is Viet Vu, I am 47 years old I’ve spent the last 33 years of my life, in and out of prison, because of gang, criminal lifestyle and bad decision. I no longer want to live that lifestyle, and have done all I can to change my life. Through New Freedom I want to help who ever I can, so that they don’t walk down the same road I've walk.
-    - image: /img/kim2.png
+    - image: /img/kimothy.jpg
       text: >
         Meet Kimothy: Hello World,
 
@@ -37,7 +37,7 @@ intro:
         I'm a former HillTop Crip from Tacoma Washington.
 
         My new passion in life is to help men get out of gangs. A lot of them just need a positive example they can relate to, someone that's also relatable to them. Someone that won't give up on them if they make a mistake. That's where New Freedom Washington comes in.
-        I'm proud to say that I'm a New Freedom Graduate and New Freedom Facilitator. I'm now a published author of two books. The first book is called 'Incarcerated Individuals Guide To Good Credit' by Kimothy Wynn.The second book is called 'Credit Equals Cash' by Kimothy Wynn. Both books are available now @Amazon.com. I also have a brand new Real Estate company called K.M.Wynn Property Investments, LLC
+        I'm proud to say that I'm a New Freedom Graduate and New Freedom Facilitator. I'm now a published author of two books.
   heading: Why community is important
   description: >
     With this strong team we can do change the trajectory of former gang members
