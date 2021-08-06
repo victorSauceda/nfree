@@ -7,6 +7,7 @@ import BlogPostPreview from "./preview-templates/BlogPostPreview";
 import ProductPagePreview from "./preview-templates/ProductPagePreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 import MeetOurTeamPagePreview from "./preview-templates/MeetOurTeamPagePreview";
+import DonatePagePreview from "./preview-templates/DonatePagePreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
