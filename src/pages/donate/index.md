@@ -2,4 +2,4 @@
 
 templateKey: "donate-page"
 path: /donate
-title: Donate Now
+title: Donate to New Freedom
