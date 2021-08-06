@@ -5,10 +5,8 @@ import AttachMoneyIcon from "@material-ui/icons/AttachMoney";
 import Content, { HTMLContent } from "../components/Content";
 import {
   Card,
-  CardActionArea,
   CardActions,
   Button,
-  CardMedia,
   Grid,
   CardContent,
   Typography,
