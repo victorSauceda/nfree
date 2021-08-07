@@ -120,7 +120,7 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
                           </Typography>
                         </Grid>
                         <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/9AQ2aV22g3pH10s7st">
+                          <a href="https://buy.stripe.com/7sIdTD5esaS99wYdQU">
                             <Fab
                              className={classes.fab}
                             >
@@ -183,7 +183,7 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
                           </Typography>
                         </Grid>
                         <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/9AQ2aV22g3pH10s7st">
+                          <a href="https://buy.stripe.com/7sI2aV22g8K1aB2cMR">
                             <Fab
                           className={classes.fab}
                             >
