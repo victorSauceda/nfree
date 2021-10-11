@@ -20,7 +20,7 @@ const useStyles = makeStyles({
     margin: "auto",
 
     padding: "1rem",
-    backgroundColor: "#FF4300",
+    backgroundColor: "#821213",
     color: "white",
     fontSize: "2rem",
     height: "100%",
@@ -42,7 +42,6 @@ const useStyles = makeStyles({
       width: "4rem",
       marginBottom: "0rem",
       marginTop: "2rem",
-    
     },
   },
   media: {
@@ -121,29 +120,17 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
                         </Grid>
                         <Grid item md={4} xs={4}>
                           <a href="https://buy.stripe.com/7sIdTD5esaS99wYdQU">
-                            <Fab
-                             className={classes.fab}
-                            >
-                              25+
-                            </Fab>
+                            <Fab className={classes.fab}>25+</Fab>
                           </a>
                         </Grid>
                         <Grid item md={4} xs={4}>
                           <a href="https://buy.stripe.com/6oE7vf0Yc3pH10s003">
-                            <Fab
-                          className={classes.fab}
-                            >
-                              100+
-                            </Fab>
+                            <Fab className={classes.fab}>100+</Fab>
                           </a>
                         </Grid>
                         <Grid item md={4} xs={4}>
                           <a href="https://buy.stripe.com/dR65n722g2lDcJabIK">
-                            <Fab
-                          className={classes.fab}
-                            >
-                              500+
-                            </Fab>
+                            <Fab className={classes.fab}>500+</Fab>
                           </a>
                         </Grid>
                       </Grid>
@@ -184,29 +171,17 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
                         </Grid>
                         <Grid item md={4} xs={4}>
                           <a href="https://buy.stripe.com/7sI2aV22g8K1aB2cMR">
-                            <Fab
-                          className={classes.fab}
-                            >
-                              25+
-                            </Fab>
+                            <Fab className={classes.fab}>25+</Fab>
                           </a>
                         </Grid>
                         <Grid item md={4} xs={4}>
                           <a href="https://buy.stripe.com/dR67vfayM2lD10s144">
-                            <Fab
-                          className={classes.fab}
-                            >
-                              100+
-                            </Fab>
+                            <Fab className={classes.fab}>100+</Fab>
                           </a>
                         </Grid>
                         <Grid item md={4} xs={4}>
                           <a href="https://buy.stripe.com/9AQ2aV22g3pH10s7st">
-                            <Fab
-                       className={classes.fab}
-                            >
-                              500+
-                            </Fab>
+                            <Fab className={classes.fab}>500+</Fab>
                           </a>
                         </Grid>
                       </Grid>
