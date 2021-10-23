@@ -129,7 +129,7 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
                           </a>
                         </Grid>
                         <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/dR65n722g2lDcJabIK">
+                          <a href="https://buy.stripe.com/00gdTD7mAd0hfVmbIO">
                             <Fab className={classes.fab}>500+</Fab>
                           </a>
                         </Grid>
