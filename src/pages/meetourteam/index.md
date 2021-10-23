@@ -28,19 +28,26 @@ intro:
     - image: /img/vue3.jpg
       text: >
         Meet Vu: My name is Viet Vu, I am 47 years old I’ve spent the last 33 years of my life, in and out of prison, because of gang, criminal lifestyle and bad decision. I no longer want to live that lifestyle, and have done all I can to change my life. Through New Freedom I want to help who ever I can, so that they don’t walk down the same road I've walk.
-    - image: /img/kimothy.jpg
+    - image: /img/kimothy1.png
       text: >
-        Meet Kimothy: Hello World,
+        Meet Kimothy: My story Is birthed in the familiar foster care to prison pipeline headline, another tentacle of this country's prison industrial complex. I'm from a broken home, a drug addicted mother who was in and out of jail, state and federal prison. I don't know my father. At age 14 my survival depended solely upon myself, learning everything the hard way through trial and error.
 
-        I will start by saying that my name is Kimothy Wynn. I'm 43 years old and am currently incarcerated at the Monroe Correctional Complex.
+        Looking back, my joining the Hilltop Crips felt like a natural progression in my maturation leading me to eventually become a neighborhood celebrity gangster. This spin cycle led me to a lengthy prison sentence from where I write this today.
 
-        I'm a former HillTop Crip from Tacoma Washington.
+        Prison gave me a crash course in identifying my delusions of misplaced trust, fake family, fake love and fake loyalty. Coming to prison kept me alive long enough to switch lanes, self-reflect and develop a new set of core values.
 
-        My new passion in life is to help men get out of gangs. A lot of them just need a positive example they can relate to, someone that's also relatable to them. Someone that won't give up on them if they make a mistake. That's where New Freedom Washington comes in.
-        I'm proud to say that I'm a New Freedom Graduate and New Freedom Facilitator. I'm now a published author of two books.
-  heading: Why community is important
-  description: >
-    With this strong team we can do change the trajectory of former gang members
+        New Freedom Washington allowed me to dig deeper to better understand myself and how I view people around me, thereby allowing me to intentionally develop my own sense of purpose in life. New Freedom gave me a platform to be around like minded individuals that wanted better for themselves and wanted to change their ways and ultimately their lives. This program has been instrumental to my transformation, it gave me the opportunity to unpack some of the trauma that I've been through that led me to making some of the poor choices that I've made in my life. I'm thankful for the platform, because once I was able to release some of my struggles, delusions, faults, shortcomings, and pain... I was finally able to begin to heal. Needless to say, New freedom became my therapy.
+
+        Being a New Freedom graduate and facilitator aided me in confidence, not only to navigate my new path towards success, but to also champion others to do the same. I've taken those attributes that were misplaced and I've applied them to legal enterprises.
+
+        After being mentally liberated, i now truly believe that anything is possible.
+        You can look me up on kimothymwynn.com to see how i am consistently "striving to be the change that I wanna see".
+    - image: /img/joseph1.jpeg
+      text: >
+        Meet Joseph: Im Joseph "Broadway" Kennedy During the initial enrollment screening for the New Freedom Program I was disappointed to learn that I had not been selected. At a later date I was elated to find that I would be accepted and enrolled in the upcoming class. Part of my trepidation in this process lies in the fact that I am not STG (Security Threat Group) classified by DOC, in other words, I am not associated with a gang. My degree of skepticism surrounding my admission & acceptance once classes began proved unfounded. I say with much adulation these concerns were totally unwarrantless, these men accepted me foe who I was and there was no judgment. The curriculum allowed us to peel away the superficial layers of our exteriors, exposing our true identities. Immediately I identified with our shared criminal addictions and lifestyle choices that contributed to a path of destruction. New Freedom has offered me the space and fellowship to reflect upon changing my actions and decisions. New Freedom has offered me leadership development and experience that promotes social responsibility and self- awareness. Today I serve this LWOP sentence with dignity and integrity, what I live for is positive connection and developing meaningful relationships. I marvel in the fact that New Freedom has created a network and platform to support and serve those of us currently incarcerated, as well as our alumni who are re-entering society. This program is truly a catalyst foe community empowerment and individual success.
+      heading: Why community is important
+      description: >
+        With this strong team we can do change the trajectory of former gang members
 
 # main:
 #   heading: Great coffee with no compromises
