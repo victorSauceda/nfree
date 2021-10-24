@@ -47,7 +47,7 @@ intro:
         Meet Musa: Musa Abdul-Mateen is the founder of Motivated Muslim.com, an organization dedicated to giving a voice to incarcerated Muslims all over the world. Formerly incarcerated for over two decades, Musa is familiar with life inside the system and understands the struggles men and woman face upon their release. In addition to Musa’s work with Motivated Muslim, he is also a full-time welder at Vigor Shipyards in Seattle and a full-time student at Colorado Technical University working to finish his undergrad in Business. Musa volunteers his free time helping incarcerated adultsand youth.
     - image: /img/bumpus.jpg
       text: >
-        Meet Musa: Ex-professional football athlete (WSU and Seattle Seahawks) turned athletic training facility owner, head football coach and sports analyst (ROOT Sports and 710 ESPN- Seahawks radio).
+        Meet Michael: Ex-professional football athlete (WSU and Seattle Seahawks) turned athletic training facility owner, head football coach and sports analyst (ROOT Sports and 710 ESPN- Seahawks radio).
 
     # - image: /img/randy.jpg
     #   text: >
