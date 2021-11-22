@@ -5,7 +5,7 @@ import logo from "../img/logo.png";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
+import linkedin from "../img/social/linkedin.svg";
 
 const Footer = class extends React.Component {
   render() {
@@ -96,7 +96,7 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" href="https://twitter.com/newfreedomwa">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -104,18 +104,24 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a
+                  title="instagram"
+                  href="https://www.instagram.com/newfreedomwa/"
+                >
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a
+                  title="linkedin"
+                  href="https://linkedin.com/company/new-freedom-washington"
+                >
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: "1em", height: "1em" }}
+                    src={linkedin}
+                    alt="LinkedIn"
+                    style={{ width: "1em", height: "1em", fontSize: "1rem" }}
                   />
                 </a>
               </div>
