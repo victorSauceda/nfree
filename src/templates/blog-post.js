@@ -29,9 +29,20 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
-            {videoSourceURL ? (
+
+            {videoSourceURL ==
+            "https://www.linkedin.com/posts/victor-sauceda-10202a190_codeforamerica-thrivesbc-resourcefair-activity-6865179777792385024-dVSC" ? (
+              <Link
+                className="btn"
+                to={videoSourceURL}
+                style={{ margin: "1rem 0" }}
+              >
+                Learn More
+              </Link>
+            ) : (
               <Video videoSrcURL={videoSourceURL} videoTitle={title} />
-            ) : null}
+            )}
+
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
