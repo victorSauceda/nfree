@@ -31,7 +31,9 @@ export const BlogPostTemplate = ({
             <p>{description}</p>
 
             {videoSourceURL ==
-            "https://www.linkedin.com/posts/victor-sauceda-10202a190_codeforamerica-thrivesbc-resourcefair-activity-6865179777792385024-dVSC" ? (
+              "https://www.linkedin.com/posts/victor-sauceda-10202a190_codeforamerica-thrivesbc-resourcefair-activity-6865179777792385024-dVSC" ||
+            videoSourceURL ==
+              "https://www.linkedin.com/feed/update/urn:li:activity:6875308087616659456" ? (
               <Link
                 className="btn"
                 to={videoSourceURL}
