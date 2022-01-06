@@ -31,6 +31,8 @@ export const BlogPostTemplate = ({
             <p>{description}</p>
 
             {videoSourceURL ==
+              "https://www.linkedin.com/feed/update/urn:li:activity:6879309535614504960" ||
+            videoSourceURL ==
               "https://www.linkedin.com/posts/victor-sauceda-10202a190_codeforamerica-thrivesbc-resourcefair-activity-6865179777792385024-dVSC" ||
             videoSourceURL ==
               "https://www.linkedin.com/feed/update/urn:li:activity:6875308087616659456" ? (
@@ -44,7 +46,6 @@ export const BlogPostTemplate = ({
             ) : (
               <Video videoSrcURL={videoSourceURL} videoTitle={title} />
             )}
-
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
