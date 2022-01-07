@@ -6,11 +6,11 @@ featuredpost: false
 featuredimage: /img/kimothy1.png
 description: A blog from Kimothy, A New Freedom Facilitator
 videoSourceURL: "https://www.linkedin.com/feed/update/urn:li:activity:6871672368285282304"
-videoTitle: "James Paulk Certified Trainer"
+videoTitle: "Kimothy Over the Years"
 tags:
   - criminaljustice
-  - certifiedtrainer
-  - goalsinprison
+  - character
+  - friendships
 ---
 
 <!-- ![flavor wheel](/img/flavor_wheel.jpg) -->
