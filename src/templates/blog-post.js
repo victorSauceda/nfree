@@ -31,7 +31,7 @@ export const BlogPostTemplate = ({
             <p>{description}</p>
 
             {videoSourceURL ==
-              "https://www.linkedin.com/feed/update/urn:li:activity:6871672368285282304" ||
+              "https://www.linkedin.com/posts/new-freedom-washington_mentalhealth-newfreedomwashington-transformation-activity-6885434169921556480-IdCp" ||
             videoSourceURL ==
               "https://www.linkedin.com/feed/update/urn:li:activity:6879309535614504960" ||
             videoSourceURL ==
