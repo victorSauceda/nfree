@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/vic3.jpg
       text: >
-        Victor Sauceda: Victor serves as the Executive Director for New Freedom. He is originally from California and has served over a decade in the prison system. Victor was introduced to the gang lifestyle at a very young age. Through his lived experience and passion for justice reform he is dedicated to creating a pathway for those that are commited to making themselves better people. He brings leadership, passion, grit and a huge smile. After releasing he attended a coding bootcamp through Unloop and is currently a Software Engineer at Code for America. He continues to find ways to have a signicant impact in his community.
+        Victor Sauceda: Victor serves as the Executive Director for New Freedom. He is originally from California and has served over a decade in the prison system. Victor was introduced to the gang lifestyle at a very young age. Through his lived experience and passion for justice reform he is dedicated to creating a pathway for those that are committed to making themselves better people. He brings leadership, passion, grit and a huge smile. After releasing he attended a coding bootcamp through Unloop and is currently a Software Engineer at Code for America. He continues to find ways to have a signicant impact in his community.
     - image: /img/Phillip.jpg
       text: >
         Meet Phillip: My name is Phillip Krist. I am 38 years old from Bellingham Wa. My life has been a balancing act of survival and trying to find my true self. My biggest challenge has always been fear. Today I stand as a committed husband, father, and mentor, living with purpose in courage, strength, and redemption. I believe in the power of New Freedom and in the men who seek change
