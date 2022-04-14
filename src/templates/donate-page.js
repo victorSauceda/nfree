@@ -189,6 +189,11 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
                   </Card>
                 </Grid>
               </Grid>
+              <div style={{ marginTop: "2rem", textAlign: "center" }}>
+                {" "}
+                New Freedom Washington is a non-partisan, non-political
+                501(c)(3) charitable organization. EIN number 86-3313558{" "}
+              </div>
               <PageContent className="content" content={content} />
             </div>
           </div>
