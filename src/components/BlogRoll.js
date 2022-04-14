@@ -16,13 +16,17 @@ class BlogRoll extends React.Component {
           posts.map(({ node: post }) => (
             <div className="is-parent column is-6" key={post.id}>
               <article
+                style={{ height: "100%", textAlign: "center" }}
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? "is-featured" : ""
                 }`}
               >
-                <header>
+                <header style={{ justifyContent: "center" }}>
                   {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
+                    <div
+                      className="featured-thumbnail"
+                      style={{ textAlign: "center" }}
+                    >
                       {" "}
                       <PreviewCompatibleImage
                         imageInfo={{
@@ -32,20 +36,25 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
                 </header>
-                <p>
+                <p className="post-meta">
+                  <Link
+                    className="title has-text-primary is-size-4"
+                    style={{ textDecoration: "none" }}
+                    to={post.fields.slug}
+                  >
+                    {post.frontmatter.title}
+                  </Link>
+                  <span> &bull; </span>
+                  <span
+                    className="subtitle is-size-5 is-block"
+                    style={{ marginTop: "1rem" }}
+                  >
+                    {post.frontmatter.date}
+                  </span>
+                </p>
+
+                <p style={{ textAlign: "justify" }}>
                   {post.excerpt}
                   <br />
                   <br />
