@@ -128,6 +128,10 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        <div style={{ textAlign: "center" }}>
+          New Freedom Washington is a non-partisan, non-political 501(c)(3)
+          charitable organization. EIN number 86-3313558{" "}
+        </div>
       </footer>
     );
   }
