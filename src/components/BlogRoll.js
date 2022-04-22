@@ -4,6 +4,31 @@ import { Link, graphql, StaticQuery } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import Video from "../components/video";
 
+function TitleAndDate(props) {
+  return (
+    <p className="post-meta">
+      <Link
+        className="title has-text-primary is-size-4"
+        style={{
+          textDecoration: "none",
+        }}
+        to={props.slug}
+      >
+        {props.frontmatter.title}
+      </Link>
+      <span> &bull;</span>
+      <span
+        className="subtitle is-size-5 is-block"
+        style={{
+          marginTop: "1rem",
+        }}
+      >
+        {props.frontmatter.date}
+      </span>
+    </p>
+  );
+}
+
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props;
@@ -37,22 +62,10 @@ class BlogRoll extends React.Component {
                     </div>
                   ) : null}
                 </header>
-                <p className="post-meta">
-                  <Link
-                    className="title has-text-primary is-size-4"
-                    style={{ textDecoration: "none" }}
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull;</span>
-                  <span
-                    className="subtitle is-size-5 is-block"
-                    style={{ marginTop: "1rem" }}
-                  >
-                    {post.frontmatter.date}
-                  </span>
-                </p>
+                <TitleAndDate
+                  slug={post.fields.slug}
+                  frontmatter={post.frontmatter}
+                ></TitleAndDate>
 
                 <p style={{ textAlign: "justify" }}>
                   {post.excerpt}
