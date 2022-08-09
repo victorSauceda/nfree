@@ -1,10 +1,10 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
-import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
-import Layout from "../components/Layout";
+import { kebabCase } from "lodash";
+import PropTypes from "prop-types";
+import React from "react";
+import { Helmet } from "react-helmet";
 import Content, { HTMLContent } from "../components/Content";
+import Layout from "../components/Layout";
 import Video from "../components/video";
 
 export const BlogPostTemplate = ({
@@ -29,25 +29,26 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
-
-            {videoSourceURL ==
-              "https://www.linkedin.com/posts/new-freedom-washington_mentalhealth-newfreedomwashington-transformation-activity-6885434169921556480-IdCp" ||
-            videoSourceURL ==
-              "https://www.linkedin.com/feed/update/urn:li:activity:6879309535614504960" ||
-            videoSourceURL ==
-              "https://www.linkedin.com/posts/victor-sauceda-10202a190_codeforamerica-thrivesbc-resourcefair-activity-6865179777792385024-dVSC" ||
-            videoSourceURL ==
-              "https://www.linkedin.com/feed/update/urn:li:activity:6875308087616659456" ? (
-              <Link
-                className="btn"
-                to={videoSourceURL}
-                style={{ margin: "1rem 0" }}
-              >
-                Learn More
-              </Link>
-            ) : (
-              <Video videoSrcURL={videoSourceURL} videoTitle={title} />
-            )}
+            <>
+              {videoSourceURL ==
+                "https://www.linkedin.com/posts/new-freedom-washington_mentalhealth-newfreedomwashington-transformation-activity-6885434169921556480-IdCp" ||
+              videoSourceURL ==
+                "https://www.linkedin.com/feed/update/urn:li:activity:6879309535614504960" ||
+              videoSourceURL ==
+                "https://www.linkedin.com/posts/victor-sauceda-10202a190_codeforamerica-thrivesbc-resourcefair-activity-6865179777792385024-dVSC" ||
+              videoSourceURL ==
+                "https://www.linkedin.com/feed/update/urn:li:activity:6875308087616659456" ? (
+                <Link
+                  className="btn"
+                  to={videoSourceURL}
+                  style={{ margin: "1rem 0" }}
+                >
+                  Learn More
+                </Link>
+              ) : (
+                <Video videoSrcURL={videoSourceURL} videoTitle={title} />
+              )}
+            </>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
