@@ -13,7 +13,7 @@ const useStyles = makeStyles({
 
     padding: "1rem",
     backgroundColor: "#821213",
-    color: "white",
+    color: "#fff",
     fontSize: "2rem",
     height: "100%",
     "@media (max-width: 675px)": {
