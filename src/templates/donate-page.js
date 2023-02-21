@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import AttachMoneyIcon from "@material-ui/icons/AttachMoney";
 import Content, { HTMLContent } from "../components/Content";
+
 import {
   Card,
   CardActions,
@@ -10,6 +11,7 @@ import {
   Grid,
   CardContent,
   Typography,
+  Button,
 } from "@material-ui/core";
 import Layout from "../components/Layout";
 import { makeStyles } from "@material-ui/core/styles";
@@ -85,108 +87,74 @@ export const DonatePageTemplate = ({ title, content, contentComponent }) => {
               >
                 Donate to New Freedom Washington
               </Typography>
-              <Grid container>
-                <Grid item md={6} xs={12}>
-                  <Card className={classes.root}>
-                    <AttachMoneyIcon
+              <Typography
+                gutterBottom
+                variant="p"
+                component="p"
+                style={{ textAlign: "center", marginBottom: "3rem" }}
+              >
+                The New Freedom Program in Washington State is a unique and
+                powerful initiative that provides critical support and resources
+                to individuals who have been impacted by gang involvement and
+                incarceration. As the only peer-based gang intervention and life
+                skills development program in the {`state's`} Department of
+                Corrections, New Freedom has been a game-changer for many
+                individuals seeking to turn their lives around. <br />
+                <br />
+                Founded by six incarcerated men who are former gang members,
+                along with a classification counselor and a correctional
+                lieutenant at the Twin Rivers Unit of Monroe Correctional
+                Complex, New Freedom is dedicated to removing barriers to
+                success and building a foundation for positive change. Through a
+                focus on learning new behavioral skills, specialized reentry
+                planning, and connection to comprehensive wrap-around services,
+                participants in the program have the opportunity to build a
+                network of support and accountability within the community.
+                <br />
+                <br />
+                By donating to the New Freedom Program, you can help support
+                this important work and contribute to positive outcomes for
+                individuals impacted by gang involvement and incarceration. Your
+                donation can help ensure that more individuals have access to
+                the resources, education, and support they need to successfully
+                transition back into their communities and build better lives
+                for themselves and their families. Join us in supporting this
+                critical program and making a difference in the lives of those
+                who need it most.
+                <br />
+                <br />
+              </Typography>
+              <Grid
+                container
+                style={{
+                  textAlign: "center",
+                  display: "flex",
+                  justifyContent: "center",
+                }}
+              >
+                <Grid
+                  item
+                  md={12}
+                  xs={12}
+                  style={{ display: "flex", justifyContent: "center" }}
+                >
+                  <a href="https://buy.stripe.com/5kA2aV9uIaS924w5kr">
+                    <Button
+                      style={{
+                        justifyContent: "center",
+                        alignItems: "center",
+                        backgroundColor: "#FEC64A",
+                        borderRadius: 10,
+                        padding: 10,
+                        color: "#ffffff",
+                        fontWeight: "bold",
+                        textTransform: "uppercase",
+                      }}
                       center
-                      style={{ marginTop: "3rem", fontSize: "3rem" }}
-                    />
-                    <CardContent>
-                      <Typography
-                        gutterBottom
-                        variant="h4"
-                        component="h2"
-                        style={{ marginBottom: "2rem" }}
-                      >
-                        One time Payment
-                      </Typography>
-                      <Typography
-                        variant="body2"
-                        color="textSecondary"
-                        component="h2"
-                        style={{ color: "white", fontSize: "1.6rem" }}
-                      >
-                        Please click below to donate a one time payment
-                      </Typography>
-                    </CardContent>
-
-                    <CardActions>
-                      <Grid container>
-                        <Grid item md={12} xs={12}>
-                          <Typography style={{ fontSize: "1.6rem" }}>
-                            Set up a one time Payment
-                          </Typography>
-                        </Grid>
-                        <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/7sIdTD5esaS99wYdQU">
-                            <Fab className={classes.fab}>25+</Fab>
-                          </a>
-                        </Grid>
-                        <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/6oE7vf0Yc3pH10s003">
-                            <Fab className={classes.fab}>100+</Fab>
-                          </a>
-                        </Grid>
-                        <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/00gdTD7mAd0hfVmbIO">
-                            <Fab className={classes.fab}>500+</Fab>
-                          </a>
-                        </Grid>
-                      </Grid>
-                    </CardActions>
-                  </Card>
-                </Grid>
-                <Grid item md={6} xs={12} className={classes.media}>
-                  <Card className={classes.root}>
-                    <AttachMoneyIcon
-                      center
-                      style={{ marginTop: "3rem", fontSize: "3rem" }}
-                    />
-                    <CardContent>
-                      <Typography
-                        gutterBottom
-                        variant="h4"
-                        component="h2"
-                        style={{ marginBottom: "2rem" }}
-                      >
-                        Recurring Payment
-                      </Typography>
-                      <Typography
-                        variant="body2"
-                        color="textSecondary"
-                        component="h2"
-                        style={{ color: "white", fontSize: "1.6rem" }}
-                      >
-                        Please click below to donate a recurring payments
-                      </Typography>
-                    </CardContent>
-
-                    <CardActions>
-                      <Grid container>
-                        <Grid item md={12} xs={12}>
-                          <Typography style={{ fontSize: "1.6rem" }}>
-                            Set up a recurring payment
-                          </Typography>
-                        </Grid>
-                        <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/7sI2aV22g8K1aB2cMR">
-                            <Fab className={classes.fab}>25+</Fab>
-                          </a>
-                        </Grid>
-                        <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/dR67vfayM2lD10s144">
-                            <Fab className={classes.fab}>100+</Fab>
-                          </a>
-                        </Grid>
-                        <Grid item md={4} xs={4}>
-                          <a href="https://buy.stripe.com/9AQ2aV22g3pH10s7st">
-                            <Fab className={classes.fab}>500+</Fab>
-                          </a>
-                        </Grid>
-                      </Grid>
-                    </CardActions>
-                  </Card>
+                    >
+                      Donate Now
+                    </Button>
+                  </a>
                 </Grid>
               </Grid>
               <div style={{ marginTop: "2rem", textAlign: "center" }}>
