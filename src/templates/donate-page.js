@@ -1,18 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import AttachMoneyIcon from "@material-ui/icons/AttachMoney";
 import Content, { HTMLContent } from "../components/Content";
-
-import {
-  Card,
-  CardActions,
-  Fab,
-  Grid,
-  CardContent,
-  Typography,
-  Button,
-} from "@material-ui/core";
+import { Grid, Typography, Button } from "@material-ui/core";
 import Layout from "../components/Layout";
 import { makeStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles({
